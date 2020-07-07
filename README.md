@@ -21,4 +21,4 @@
 ##### Phiên bản: v1.3 (VIETNAMESE VERSION)
 ##### Tải về: https://github.com/GamerSoiCon/FireWingsVN/releases
 ```Mình đã ngừng việt hóa và cập nhật plugin này!```
-```Vì vậy, plugin này có thể gây lỗi cho server của bạn trong tương lai!```
+```Vì vậy, plugin có thể gây lỗi cho server của bạn trong tương lai!```
