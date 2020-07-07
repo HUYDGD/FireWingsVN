@@ -3,6 +3,7 @@
 
 + Plugin FireWings dành cho người Việt! Đã được việt hóa 100%.
 + Nguồn: https://vk.com/eddir
++ Phần mềm: PocketMine-MP
 
 # Lệnh
 + /wing: Bật/tắt hiển thị cánh.
