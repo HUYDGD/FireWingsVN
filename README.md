@@ -1,4 +1,3 @@
-`Password: soicon`
 <h1>FireWingsVN<img src="https://i.imgur.com/x3EmiwF.gif" height="64" width="64" align="left"></img></h1>
 
 + Plugin FireWings dành cho người Việt! Đã được việt hóa 100%.
